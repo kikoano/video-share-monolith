@@ -1,0 +1,1 @@
+plink tunnelvezhbi@bazi.finki.ukim.mk -ssh -C -N -2 -L 5432:localhost:5432 -pw tunelot2019
